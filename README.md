@@ -171,7 +171,7 @@ While waiting for help, here’s what you can do:
 This is an educational AI tool and **not a substitute for professional medical care**. Always call emergency services in real-life situations.
 
 ---
-📄 License & Credits
+##📄 License & Credits
 
 This project uses the open-source Gemma-2B-IT model developed by Google DeepMind, released under the Gemma Terms of Use.
 
