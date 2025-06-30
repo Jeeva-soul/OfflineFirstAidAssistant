@@ -171,3 +171,16 @@ While waiting for help, here’s what you can do:
 This is an educational AI tool and **not a substitute for professional medical care**. Always call emergency services in real-life situations.
 
 ---
+📄 License & Credits
+This project uses the open-source Gemma-2B-IT model developed by Google DeepMind, released under the Gemma Terms of Use.
+
+The model weights are not redistributed in this repository.
+
+Users are instructed to download the model from the official Hugging Face source.
+
+This project does not provide any hosted API or commercial service.
+
+All rights to the original model architecture and training belong to Google DeepMind.
+
+For questions about usage or compliance, refer to:
+https://ai.google.dev/gemma
