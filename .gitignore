@@ -1,0 +1,65 @@
+# ----------------------------
+# Python virtual environments
+# ----------------------------
+venv/
+firstaid_env/
+env/
+*.env
+
+# ----------------------------
+# Python cache files
+# ----------------------------
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+# ----------------------------
+# Logs & temporary files
+# ----------------------------
+*.log
+*.tmp
+*.swp
+
+# ----------------------------
+# Model weights & checkpoints
+# ----------------------------
+models/**/*.bin
+models/**/*.pt
+models/**/*.ckpt
+models/**/*.safetensors
+models/**/pytorch_model*
+models/**/tf_model*
+models/**/tokenizer_config.json
+models/**/generation_config.json
+models/**/special_tokens_map.json
+
+# ----------------------------
+# Gradio cache (UI runtime)
+# ----------------------------
+.gradio/
+
+# ----------------------------
+# IDE/editor-specific
+# ----------------------------
+.vscode/
+.idea/
+*.iml
+
+# ----------------------------
+# OS/system-specific files
+# ----------------------------
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ----------------------------
+# Screenshots or temp images
+# ----------------------------
+*.png
+*.jpg
+*.jpeg
+*.gif
