@@ -172,6 +172,7 @@ This is an educational AI tool and **not a substitute for professional medical c
 
 ---
 📄 License & Credits
+
 This project uses the open-source Gemma-2B-IT model developed by Google DeepMind, released under the Gemma Terms of Use.
 
 The model weights are not redistributed in this repository.
